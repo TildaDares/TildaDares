@@ -1,8 +1,8 @@
 ### Hi there I'm Tilda👋🏾👩🏾‍💻
 
-<img src="https://user-images.githubusercontent.com/63427719/121058408-327e9b00-c7b8-11eb-850e-77acb8f06796.png"/>
+![My Post](https://user-images.githubusercontent.com/63427719/122384739-e378f880-cf63-11eb-8716-c00b1157bf35.png)
 
-I'm a software engineer that loves to solve problems with code and contribute to open source. I work with HTML, CSS, JavaScript, React and Ruby on Rails. I'm presently an outreachy intern with [Publiclab](https://publiclab.org).
+I'm a web developer that loves to solve problems with code and contribute to open source. I work with HTML, CSS, JavaScript, React and Ruby on Rails. I'm presently an outreachy intern with [Publiclab](https://publiclab.org).
 
 - 👩🏾‍💻 Currently an outreachy intern with [PublicLab](https://publiclab.org)
 - 🌱 I’m currently learning NodeJS
