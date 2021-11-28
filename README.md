@@ -4,7 +4,7 @@
 
 I'm a web developer that loves to solve problems with code and contribute to open source. I work with HTML, CSS, JavaScript, React and Ruby on Rails. I'm presently an outreachy intern with [Publiclab](https://publiclab.org).
 
-- 👩🏾‍💻 Ex-outreachy intern with [PublicLab](https://publiclab.org)
+- 👩🏾‍💻 Code Community Coordinator with [PublicLab](https://publiclab.org)
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: [Twitter](https://twitter.com/B_eautifulChaos), [LinkedIn](https://www.linkedin.com/in/mathilda-udufo/)
 - 😄 Pronouns: she/her
