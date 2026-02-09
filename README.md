@@ -4,7 +4,6 @@
 
 I'm a Software Engineer that loves to solve problems with code and contribute to open source. I work with .NET, C#, Google Cloud Platform, and Ruby on Rails.
 
-- 👩🏾‍💻 Outreachy Organizer at [Outreachy](https://outreachy.org)
 - 🌱 I’m currently learning about the cloud
 - 📫 How to reach me: [Twitter](https://twitter.com/B_eautifulChaos), [LinkedIn](https://www.linkedin.com/in/mathilda-udufo/)
 - 😄 Pronouns: she/her
